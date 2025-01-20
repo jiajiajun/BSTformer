@@ -32,7 +32,7 @@ ${POSE_ROOT}/
 ## Test the Model
 
 ```bash
-python main.py --test --previous_dir ./checkpoint/full_cpn.pth
+python main.py --test --previous_dir ./checkpoint/model.pth
 ```
 
 ## Train the Model
